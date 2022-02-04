@@ -1,0 +1,17 @@
+h1{
+    color: crimson;
+    background-color:whitesmoke;
+    border: 2px solid salmon;
+}
+h2{
+    color: blueviolet;
+    background-color:whitesmoke;
+    border: 1px solid black;
+
+}
+h3{
+    color: green;
+    background-color:whitesmoke;
+    border: 1px solid red;
+
+}
